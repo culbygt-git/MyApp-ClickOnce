@@ -1,0 +1,2 @@
+# ClickOnce packages are hash-sensitive — do not modify them (no line-ending conversion)
+docs/app/** -text
