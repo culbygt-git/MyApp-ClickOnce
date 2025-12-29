@@ -1,0 +1,2 @@
+# ClickOnce is hash-sensitive. Do not change bytes under docs/app.
+docs/app/** -text
